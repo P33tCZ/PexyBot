@@ -1,0 +1,2 @@
+# PexyBot
+Private Discord bot
